@@ -1,0 +1,3 @@
+Accession	Start	Stop	Strand
+NZ_CP006019.1	1875	2500	-1
+CP000472.1	123	975	1
